@@ -12,6 +12,14 @@
   .heading h2 {
     font-size: 20px;
   }
+  
+  .menu-icon{
+    display:block;
+  }
+  
+   .header-right{
+    display:none;
+  }
 }
 
 /* For Smartphones */
