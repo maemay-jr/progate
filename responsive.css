@@ -13,13 +13,6 @@
     font-size: 20px;
   }
   
-  .menu-icon{
-    display:block;
-  }
-  
-   .header-right{
-    display:none;
-  }
 }
 
 /* For Smartphones */
@@ -51,6 +44,7 @@
   
   .menu-icon{
     display:block;
+    line-height:65px;
   }
   /* Add CSS for menu-icon */
   
