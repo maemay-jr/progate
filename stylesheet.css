@@ -119,12 +119,10 @@ header {
 
 /* Add CSS for menu-icon */
 .menu-icon{
+  display:none;
   color:white;
   float:right;
-  display:none;
   line-height:65px;
-  
-  
 }
 
 
